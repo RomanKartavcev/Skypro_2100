@@ -1,4 +1,4 @@
-from Skypro_2100.utils import arrs
+from utils import arrs
 
 
 def test_get():
